@@ -12,6 +12,10 @@ ETSI 300 220-1
 BAPT ZV 125  
 ETSI 300 683 
 
+## Stock Frequencies
+
+Frequencies programmed on remote buttons
+
 Green: null
 
 Blue:null
