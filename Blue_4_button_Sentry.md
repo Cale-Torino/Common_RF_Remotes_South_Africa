@@ -1,9 +1,16 @@
 
-
-
 Has learn function
 
 TX4 Channel 4 Button Learn Transmitter 433 Mhz Binary/Trinary+Smart
+
+Technical Specifications
+Frequency: 433.925Mhz 
+Power Source:  12V Battery (23A)
+Type Approvals:
+ICASA TA-2004/741 
+ETSI 300 220-1 
+BAPT ZV 125  
+ETSI 300 683 
 
 Green: null
 
@@ -24,3 +31,6 @@ Tri-State: not applicable
 PulseLength: 481 microseconds 
 Protocol: 11
 Raw data: 17264,540,448,1040,940,548,84,540,460,1028,952,536,952,536,952,540,460,1028,460,1028,952,540,460,1028,460
+
+links
+- [Martin Electronics](https://martin-electronics.co.za)
