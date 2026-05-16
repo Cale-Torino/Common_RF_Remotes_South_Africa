@@ -1,0 +1,48 @@
+
+
+HT6026
+Remote Control Encoder
+
+(HT6026 16DIP Package Restricted Products. Notification Date : 2021/10/01 Effective Date : 2022/01/01)
+
+The HT6026 is a CMOS LSI encoder designed for use in remote control system. It is capable of encoding 9 bits of information which consists of N address bits and 9-N data bits. Each address/data input is externally trinary programmable by external switches. The programmable address/data is transmitted along with the header bits via an RF or an infrared transmission medium upon receipt of a trigger signal (TE).
+
+Operating voltage: 4V~18V
+Low standby current
+Low power and high noise immunity CMOS technology
+39 difference codes
+Two transmission words minimum
+Built-in oscillator needs only 5% resistor
+Interface with RF or infrared transmission medium
+Minimal external components
+16-pin NSOP package
+
+https://www.holtek.com/page/vg/ht6026
+
+The HT6026 is pin compatible with the MC145026. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
