@@ -30,3 +30,23 @@ The HT6026 is pin compatible with the MC145026.
 https://web.archive.org/web/20250614043451/http://picsource.com.br/archives/2559/
 
 
+2208+284+368+2136 = 4,996
+2272+284+2284 = 4,840 + 288+364
+364+2140+360+2132=4,996
+
+11300
+
+17 timing ticks
+
+1
+LHHHHHHHLHHHHHHHL
+0
+LHLLLLLLLHLLLLLLL
+F
+LHHHHHHHLHLLLLLLL
+
+5000/17 = 294.1176
+
+
+275
+295
